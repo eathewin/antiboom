@@ -1,0 +1,2 @@
+# antiboom
+adsense
